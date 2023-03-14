@@ -45,7 +45,7 @@ cd /Core-Model-v7-LINUX-7/; wget https://github.com/LANDIS-II-Foundation/Extensi
 cd /Core-Model-v7-LINUX-7/; wget https://github.com/LANDIS-II-Foundation/Extension-Biomass-Harvest/archive/v4.1.zip
 cd /Core-Model-v7-LINUX-7/; wget https://github.com/LANDIS-II-Foundation/Extension-LinearWind/archive/v2.0.zip
 cd /Core-Model-v7-LINUX-7/; wget https://github.com/LANDIS-II-Foundation/Extension-Local-Habitat-Suitability-Output/archive/v2.0.zip
-cd /Core-Model-v7-LINUX-7/; wget https://github.com/kmcquil/Extension-NECN-Succession-HPC_Linux/archive/refs/tags/v6.9.zip
+cd /Core-Model-v7-LINUX-7/; wget https://github.com/kmcquil/Extension-NECN-Succession-HPC-Linux/archive/refs/tags/v6.9.zip
 #cd /Core-Model-v7-LINUX-7/; wget https://github.com/kmcquil/Extension-SCRPPLE/archive/refs/tags/v3.2.zip
 cd /Core-Model-v7-LINUX-7/; wget https://github.com/LANDIS-II-Foundation/Extension-Base-Harvest/archive/v4.1.zip
 cd /Core-Model-v7-LINUX-7/; wget https://github.com/LANDIS-II-Foundation/Extension-Output-Biomass/archive/refs/tags/v3.0.zip
