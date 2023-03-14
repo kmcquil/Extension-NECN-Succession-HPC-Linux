@@ -26,7 +26,8 @@ apt-get clean
 rm packages-microsoft-prod.deb
 
 # LANDIS
-wget https://github.com/LANDIS-II-Foundation/Core-Model-v7-LINUX/archive/v7.zip
+#wget https://github.com/LANDIS-II-Foundation/Core-Model-v7-LINUX/archive/v7.zip
+wget https://github.com/LANDIS-II-Foundation/Core-Model-v7-LINUX/archive/refs/tags/v7.zip
 unzip v7.zip
 pwd
 ls
